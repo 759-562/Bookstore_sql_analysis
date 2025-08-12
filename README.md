@@ -5,7 +5,7 @@
 CREATE DATABASE OnlineBookstore;
 ```
 
-##Create Tables
+## Create Tables
 ``` sql
 DROP TABLE IF EXISTS Books;
 CREATE TABLE Books (
